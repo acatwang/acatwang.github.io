@@ -253,16 +253,14 @@ section {
 section.even {
     /*color: #fff;
     background: #ECF0F1;
-   
-
 }
+*/
 
-section.odd{
+.odd{
     color: #fff;
-    background: #5DA6A6;
-    background: #fff;
+    background: #485f73;
 }
- */
+ 
 @media(max-width:767px) {
     section {
         padding: 75px 0;
